@@ -18,3 +18,5 @@
 * UAH themed Monopoly
 * Genetics Simulator
 * Rocket Flight Stabilization
+* Satellite Position Stabilization
+* Recursive Geometry Generator
