@@ -17,3 +17,4 @@
 * MSP430 Wave table Synthesizer
 * UAH themed Monopoly
 * Genetics Simulator
+* Rocket Flight Stabilization
