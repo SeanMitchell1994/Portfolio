@@ -13,7 +13,7 @@
 ## Personal Projects
 * Python Link Robotics Toolkit
 * Translation.py
-* (digital_audio_synth.md)
+* [Digital Audio Synthesizer](digital_audio_synth.md)
 * MSP430 Wave table Synthesizer
 * UAH themed Monopoly
 * Genetics Simulator
