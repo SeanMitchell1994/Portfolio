@@ -14,7 +14,7 @@
 * Python Link Robotics Toolkit
 * Translation.py
 * [Digital Audio Synthesizer](digital_audio_synth.md)
-* MSP430 Wave table Synthesizer
+* [MSP430 Wave table Synthesizer](wavetable_synth.md)
 * UAH themed Monopoly
 * Genetics Simulator
 * Rocket Flight Stabilization
