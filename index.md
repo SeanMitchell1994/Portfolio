@@ -19,4 +19,4 @@
 * Genetics Simulator
 * Rocket Flight Stabilization
 * Satellite Position Stabilization
-* Recursive Geometry Generator
+* [Recursive Geometry Generator](geometry.md)
