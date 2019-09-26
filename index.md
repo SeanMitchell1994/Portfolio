@@ -17,6 +17,6 @@
 * [MSP430 Wavetable Synthesizer](wavetable_synth.md)
 * [UAH themed Monopoly](monopoly.md)
 * [Genetics Simulator](genetics.md)
-* Rocket Flight Stabilization
+* [Rocket Flight Stabilization](rocket.md)
 * Satellite Position Stabilization
 * [Recursive Geometry Generator](geometry.md)
