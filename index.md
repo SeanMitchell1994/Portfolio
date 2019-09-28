@@ -18,5 +18,5 @@
 * [UAH themed Monopoly](monopoly.md)
 * [Genetics Simulator](genetics.md)
 * [Rocket Flight Stabilization](rocket.md)
-* Satellite Position Stabilization
+* [Satellite Dish Position Stabilization](sd_position.md)
 * [Recursive Geometry Generator](geometry.md)
