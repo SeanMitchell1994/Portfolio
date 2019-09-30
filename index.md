@@ -11,7 +11,7 @@
 * RAPTOR
 
 ## Personal Projects
-* [Python Link Robotics Toolkit](link_robotics_toolkit.md)
+* [Python Link Robotics Toolkit](pages/link_robotics_toolkit.md)
 * [Translation.py](translations.md)
 * [Digital Audio Synthesizer](pages/digital_audio_synth.md)
 * [MSP430 Wavetable Synthesizer](wavetable_synth.md)
