@@ -15,7 +15,7 @@
 * [Translation.py](translations.md)
 * [Digital Audio Synthesizer](pages/digital_audio_synth.md)
 * [MSP430 Wavetable Synthesizer](wavetable_synth.md)
-* [UAH themed Monopoly](monopoly.md)
+* [UAH themed Monopoly](pages/monopoly.md)
 * [Genetics Simulator](genetics.md)
 * [Rocket Flight Stabilization](rocket.md)
 * [Satellite Dish Position Stabilization](sd_position.md)
