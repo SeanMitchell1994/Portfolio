@@ -19,4 +19,4 @@
 * [Genetics Simulator](pages/genetics.md)
 * [Rocket Flight Stabilization](pages/rocket.md)
 * [Satellite Dish Position Stabilization](sd_position.md)
-* [Recursive Geometry Generator](geometry.md)
+* [Recursive Geometry Generator](pages/geometry.md)
