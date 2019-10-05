@@ -12,11 +12,11 @@
 
 ## Personal Projects
 * [Python Link Robotics Toolkit](pages/link_robotics_toolkit.md)
-* [Translation.py](translations.md)
+* [Translation.py](pages/translations.md)
 * [Digital Audio Synthesizer](pages/digital_audio_synth.md)
-* [MSP430 Wavetable Synthesizer](wavetable_synth.md)
+* [MSP430 Wavetable Synthesizer](pages/wavetable_synth.md)
 * [UAH themed Monopoly](pages/monopoly.md)
 * [Genetics Simulator](pages/genetics.md)
 * [Rocket Flight Stabilization](pages/rocket.md)
-* [Satellite Dish Position Stabilization](sd_position.md)
+* [Satellite Dish Position Stabilization](pages/sd_position.md)
 * [Recursive Geometry Generator](pages/geometry.md)
