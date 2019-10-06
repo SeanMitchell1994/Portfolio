@@ -1,2 +1,2 @@
 # Portfolio
-Just a my simple portfolio, hosted using github pages.
+Just a simple portfolio, hosted using github pages.

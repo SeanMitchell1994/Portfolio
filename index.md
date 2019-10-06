@@ -1,9 +1,10 @@
 # Portfolio
 
 ## Education
-* EE 410 - Fundamentals of Robotics
-* EE 410 - Introduction to Robotic Manipulator Control
-* EE 486 - Introduction to Modern Control Theory
+* [EE 386 - Introduction to Control and Robotic Systems](pages/controls_1.md)
+* [EE 486 - Introduction to Modern Control Theory](pages/controls_2.md)
+* [EE 410 - Fundamentals of Robotics](pages/robotics_1.md)
+* [EE 410 - Introduction to Robotic Manipulator Control](pages/robotics_2.md)
 
 ## UAH Space Hardware Club
 * OneMonth 2019
