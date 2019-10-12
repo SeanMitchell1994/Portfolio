@@ -8,8 +8,7 @@
 
 ## UAH Space Hardware Club
 * OneMonth 2019
-* BalloonSat
-* RAPTOR
+* [RAPTOR](https://github.com/raptorshc/RAPTOR)
 
 ## Personal Projects
 * [Python Link Robotics Toolkit](pages/link_robotics_toolkit.md)
